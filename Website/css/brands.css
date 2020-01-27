@@ -3,7 +3,7 @@
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 @font-face {
-  font-family: 'Font Awesome 5 Brands';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   font-display: auto;
@@ -11,4 +11,14 @@
   src: url("../fonts/brands/fa-brands-400.eot?#iefix") format("embedded-opentype"), url("../fonts/brands/fa-brands-400.woff2") format("woff2"), url("../fonts/brands/fa-brands-400.woff") format("woff"), url("../fonts/brands/fa-brands-400.ttf") format("truetype"), url("../fonts/brands/fa-brands-400.svg#fontawesome") format("svg"); }
 
 .fab {
-  font-family: 'Font Awesome 5 Brands'; }
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.fab-discord::before {
+  content: \f000
+}
