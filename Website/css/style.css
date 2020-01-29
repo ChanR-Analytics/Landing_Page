@@ -257,7 +257,6 @@ h2{
 }
 .fea i {
     font-size: 39px;
-    color: #3972B9;
     margin-top: 7px;
 }
 .heading h4 {
@@ -776,4 +775,19 @@ Responsive media queries
     .navbar-default .navbar-nav > li > a{
         text-align: center;
     }
+}
+
+/* Colors */
+
+.color-blue {
+	color: blue;
+}
+.color-green {
+	color: green;
+}
+.color-red {
+	color: red;
+}
+.color-gold {
+	color: gold
 }
