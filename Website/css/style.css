@@ -374,7 +374,6 @@ Work Shop
     box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.1);
 }
 .icon-box i {
-    color: #3972B9;
     font-size: 65px;
 }
 .ser-text {
@@ -779,15 +778,21 @@ Responsive media queries
 
 /* Colors */
 
+.color-coursera-blue {
+	color: #3972B9;
+}
+.color-tacky-green {
+	color: #36FF33;
+}
+.color-red {
+	color: red;
+}
 .color-blue {
 	color: blue;
 }
 .color-green {
 	color: green;
 }
-.color-red {
-	color: red;
-}
 .color-gold {
-	color: gold
+	color: gold;
 }
