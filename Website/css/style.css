@@ -796,3 +796,24 @@ Responsive media queries
 .color-gold {
 	color: gold;
 }
+
+/* Background Colors */
+
+.bg-color-coursera-blue {
+	background-color: #3972B9;
+}
+.bg-color-tacky-green {
+	background-color: #36FF33;
+}
+.bg-color-red {
+	background-color: red;
+}
+.bg-color-blue {
+	background-color: blue;
+}
+.bg-color-green {
+	background-color: green;
+}
+.bg-color-gold {
+	background-color: gold;
+}
