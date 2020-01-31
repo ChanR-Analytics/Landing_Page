@@ -833,3 +833,7 @@ Responsive media queries
 .bg-color-rishov-gradient {
 	background-image: radial-gradient(#171717, #6F08A2, #3B79BC);
 }
+
+.bg-color-claire-iridescent {
+	background-image: linear-gradient(rgb(243, 101, 154), rgb(123, 57, 67), rgb(174, 84, 65), rgb(168, 66, 53));
+}
