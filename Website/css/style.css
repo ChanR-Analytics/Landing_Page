@@ -387,6 +387,34 @@ Work Shop
 	font-size: 30px;
 }
 
+.icon-box-nishant, .icon-text {
+	padding: 0px 0px 0px;
+}
+
+.icon-box-nishant a {
+   padding: 10px 10px 10px;
+}
+
+.icon-box-nishant i {
+    font-size: 34px;
+}
+
+.fa-instagram {
+    color: black;
+}
+
+.fa-facebook {
+    color: rgb(3, 64, 138);
+}
+
+.fa-whatsapp {
+    color: rgb(9, 255, 0);
+}
+
+.fa-github {
+    color: black;
+}
+
 .icon-box-avatar, .icon-text {
 	padding: 20px 0px 0px;
 }
@@ -852,4 +880,11 @@ Responsive media queries
 
 .bg-color-nishant-blue {
 	background-image: radial-gradient(rgb(84, 135, 192), rgb(17, 22, 48), rgb(82, 95, 162), rgb(6, 14, 25));
+}
+.bg-color-nishant-green {
+    background-image: radial-gradient(rgb(132,196,70), rgb(46,255,28));
+}
+
+.bg-color-nishant-instagram {
+    background-image: linear-gradient(rgb(76,82,146), rgb(208,41,89), rgb(117,46,103), rgb(243,169,60));
 }
