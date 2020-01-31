@@ -431,10 +431,14 @@ Testimonial
 /***********************************
 Course
 ************************************/
-[class*=" imghvr-"] figcaption, [class^="imghvr-"] figcaption {
-    background-color: #3972B9;
-}
+
+
 [class*=" imghvr-"], [class^="imghvr-"] {
+    background-color: #3972B9;
+    color: #fff;
+}
+
+[class*=" imghvr-circle"], [class^="imghvr-circle"] {
     background-color: #3972B9;
     color: #fff;
 }
@@ -816,4 +820,16 @@ Responsive media queries
 }
 .bg-color-gold {
 	background-color: gold;
+}
+
+.bg-color-rainbow {
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+
+.bg-color-sun {
+	background-image: radial-gradient(red, yellow, green);
+}
+
+.bg-color-rishov-gradient {
+	background-image: radial-gradient(#171717, #6F08A2, #3B79BC);
 }

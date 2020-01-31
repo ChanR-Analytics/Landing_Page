@@ -9,8 +9,6 @@
    margin: 0;
    max-width: 100%;
    border-radius: 50%;
-   background-color: green;
-   color: #fff;
    overflow: hidden;
    -webkit-backface-visibility: hidden;
    backface-visibility: hidden;
@@ -27,7 +25,6 @@
 
  [class*=' imghvr-circle'] figcaption,
  [class^=imghvr-circle] figcaption {
-   background-color: green;
    padding: 30px;
    position: absolute;
    top: 0;
@@ -212,7 +209,6 @@
    left: 0;
    right: 0;
    content: '';
-   background-color: green;
  }
 
  [class*=' imghvr-circlereveal-'] figcaption,
@@ -1105,7 +1101,6 @@
 
  [class*=' imghvr-'] figcaption,
  [class^=imghvr-] figcaption {
-   background-color: #3972B9;
    padding: 30px;
    position: absolute;
    top: 0;
