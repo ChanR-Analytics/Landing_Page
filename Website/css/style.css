@@ -834,6 +834,10 @@ Responsive media queries
 	background-image: radial-gradient(#171717, #6F08A2, #3B79BC);
 }
 
-.bg-color-claire-iridescent {
-	background-image: linear-gradient(rgb(243, 101, 154), rgb(123, 57, 67), rgb(174, 84, 65), rgb(168, 66, 53));
+.bg-color-magenta-iridescent {
+	background-image: linear-gradient(rgb(243, 101, 154), rgb(123, 57, 67), rgb(174, 84, 65), rgb(168, 66, 53), rgb(243, 101, 154));
+}
+
+.bg-color-claire-metallic-grey {
+	background-image: radial-gradient(rgb(240, 240, 240), rgb(205, 205, 205), rgb(165, 165, 165), rgb(156, 156, 156), rgb(100, 100, 100), rgb(96, 96, 96));
 }
