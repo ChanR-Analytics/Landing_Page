@@ -382,6 +382,14 @@ Work Shop
 .icon-box, .icon-text {
     padding: 20px 0px 0px;
 }
+
+.icon-box-avatar i {
+	font-size: 30px;
+}
+
+.icon-box-avatar, .icon-text {
+	padding: 20px 0px 0px;
+}
 /***********************************
 Mentor Team
 ************************************/
