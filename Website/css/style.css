@@ -382,22 +382,19 @@ Work Shop
 .icon-box, .icon-text {
     padding: 10px 0px 0px;
 }
-
 .icon-box-avatar i {
-	font-size: 30px;
+    font-size: 30px;
 }
-.icon-box-claire{
-    font-size: unset;
-    color: #3972B9;
+.icon-box-avatar, .icon-text {
+	padding: 10px 0px 10px;
 }
 .claire-quote {
     padding: 10px 0px 0px;
     font-size: small;
 }
-.icon-box-avatar, .icon-text {
-	padding: 10px 0px 10px;
+.icon-box-claire{
+    color: #3972B9;
 }
-
 /* Icon Colours */
 
 .fa-meetup {
@@ -412,11 +409,7 @@ Work Shop
 .fa-whatsapp {
     color: rgb(9, 255, 0);
 }
-.fa-money {
-    color: #85BB65;
-}
 .fa-github {
-    padding: 0px 10px 0px;
     color: black;
 }
 .fa-discord {
@@ -907,4 +900,7 @@ Responsive media queries
 }
 .bg-graident-eric{
     background-image: linear-gradient(purple, rgb(220, 20, 60), red, orange);
+}
+.bg-graident-anoushka {
+    background-image: linear-gradient(rgb(255, 0, 255),orange, rgba(79, 253, 253, 0.74));
 }
